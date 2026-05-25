@@ -4,5 +4,5 @@ A sandbox repository to run Rust Experiments. Create a `codespace` using this re
 ## License 
 
 ```shell
-All rights reserved. For more information contact support@pyjamabrah.com
+All rights reserved. For more information contact support@pyjamacafe.com
 ```
